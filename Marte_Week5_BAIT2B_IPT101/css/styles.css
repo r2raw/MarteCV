@@ -1,0 +1,179 @@
+﻿/*font-family: 'Leckerli One', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;*/
+body {
+    text-align: center;
+    margin:0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+a {
+    text-decoration: none;
+}
+h2 {
+    font-weight:900;
+    font-size: 2rem;
+}
+
+hr {
+    border: dotted 10px;
+    border-bottom: none;
+    border-color: #666666;
+    margin: 10% auto 3%;
+    width: 20%;
+    clear: left;
+}
+ul {
+    list-style: none;
+}
+.myName {
+    font-family: 'Leckerli One', cursive;
+    font-size: 6rem;
+}
+.first-container {
+    background-color: #666666;
+    margin: 5% auto 5%;
+    padding: 2% 3%;   
+    border-radius: 5%;
+    height:100%;
+}
+
+.intro {
+    color: #fff;
+    line-height: 2;
+    text-align: left;
+    margin: 2rem;
+    width: 90%;
+}
+
+.certificate {
+    text-align: left;
+}
+
+/*educ section*/
+.card-header {
+    background-color: #333333;
+    color: #fff;
+}
+
+.card-body {
+    background-color: #cccccc;
+}
+
+.educ {
+    margin: 0 auto;
+}
+.myProfile {
+    margin-top: 7%;
+}
+.myNav {
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+.card {
+    margin-top: 5%;
+    border: none;
+}
+.card-body{
+    height: 85%;
+}
+
+/*skill section*/
+
+.skill-info {
+    padding-top: 15%
+}
+.skill-img {
+    margin: 2% 10%;
+    float: left;
+}
+.back-end {
+    border: 2px solid #666666;
+}
+.front-end {
+    border: 2px solid #666666;
+    
+}
+
+.header1 {
+    margin: 5% auto;
+}
+
+.skill-container {
+    width:85%;
+    margin: 5% auto;
+}
+.skill-desc {
+    text-align: left;
+}
+.skill-header {
+    margin-bottom: 5%
+}
+
+/*certificate section*/
+.carousel-item {
+    padding: 10%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/*Contact section*/
+.contact-form {
+    background-color: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(39,39,41,1) 34%, rgba(0,0,0,1) 57%, rgba(102,102,102,0.5536589635854341) 100%);
+    width: 80%;
+    border-radius: 10%;
+    margin: auto;
+}
+.contact-icon {
+    float: left;
+    margin-right: 5%;
+}
+.contact-info {
+    margin: auto;
+    width: 70%;
+    text-align: left;
+    line-height: 2;
+    padding: 5% 5%;
+    color:#fff;
+}
+.contact-container {
+    padding: 5%; 
+}
+.contact-item {
+    clear: right;
+}
+
+#Button1 {
+    position:relative;
+    margin-top:20%;
+}
+
+#home {
+    margin-top: 2.5%;
+    padding: 5% 7% 3%;
+    background-color: #333333;
+}
+
+#education {
+    padding: 5% 7%;
+}
+
+#skills {
+    margin-top: 3%;
+    padding: 2% 7% 3%;
+    background-color: #333333;
+    color: #fff;
+}
+
+#certification {
+    padding: 5% 7% 3%;
+    color: black;
+}
+
+#contacts {
+    margin: auto;
+    padding: 2% 7% 3%;
+    background-color: #333333;
+    color: #fff;
+}
